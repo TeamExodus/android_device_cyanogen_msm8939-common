@@ -25,6 +25,9 @@ vidc.enc.narrow.searchrange=1
 # Bluetooth
 ro.qualcomm.bt.hci_transport=smd
 
+# Camera
+persist.camera.cpp.duplication=false
+
 # Display
 debug.composition.type=c2d
 debug.sf.gpu_comp_tiling=1
